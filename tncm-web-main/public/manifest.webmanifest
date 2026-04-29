@@ -1,0 +1,29 @@
+{
+    "name": "Nutty Choco Morsels",
+    "short_name": "NCM Bakery",
+    "start_url": "/",
+    "display": "standalone",
+    "display_override": [
+        "standalone",
+        "fullscreen"
+    ],
+    "background_color": "#ffffff",
+    "theme_color": "#6b0f1a",
+    "icons": [
+        {
+            "src": "/assets/icons/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/assets/icons/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "/assets/icons/logo192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+    ]
+}
