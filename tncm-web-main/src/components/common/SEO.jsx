@@ -3,7 +3,7 @@ import { useLocation } from 'react-router-dom';
 
 const SEO = ({ title, description, keywords, image, type = 'website' }) => {
     const location = useLocation();
-    const siteName = "Nutty Choco Morsels";
+    const siteName = "nuttychocomorsels";
     const fullTitle = title ? `${title} | ${siteName}` : siteName;
     const currentUrl = `https://nuttychocomorsels.in${location.pathname}`;
 

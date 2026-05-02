@@ -1,6 +1,6 @@
 # NCM Consumer Web
 
-The official customer-facing storefront for **Nutty Choco Morsels** - Premium Bakery Delights. Designed to provide a premium, seamless shopping experience.
+The official customer-facing storefront for **nuttychocomorsels** - Premium Bakery Delights. Designed to provide a premium, seamless shopping experience.
 
 ## ✨ Features
 
@@ -50,4 +50,4 @@ npm run build
 The app includes PWA meta tags and `viewport-fit=cover` to ensure a native-like experience on iOS and Android devices, utilizing the full screen area including the status bar.
 
 ---
-© 2026 Nutty Choco Morsels 
+© 2026 nuttychocomorsels 

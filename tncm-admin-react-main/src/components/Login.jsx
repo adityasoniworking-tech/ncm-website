@@ -176,7 +176,7 @@ const Login = ({ onLoginSuccess }) => {
                     className="text-center text-white text-[10px] mt-8 font-bold tracking-[0.3em] uppercase flex items-center justify-center gap-3"
                 >
                     <div className="h-px w-8 bg-white/20" />
-                    Nutty Choco Morsels
+                    nuttychocomorsels
                     <div className="h-px w-8 bg-white/20" />
                 </motion.p>
             </motion.div>

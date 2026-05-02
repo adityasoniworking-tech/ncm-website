@@ -14,9 +14,9 @@ export default defineConfig({
       injectRegister: 'auto',
       includeAssets: ['favicon.ico', 'apple-touch-icon.png'],
       manifest: {
-        name: 'NCM Admin',
+        name: 'nuttychocomorsels admin',
         short_name: 'NCM-Admin',
-        description: 'Premium Store Management Portal for Nutty Choco Morsels',
+        description: 'Premium Store Management Portal for nuttychocomorsels',
         theme_color: '#f59e0b',
         background_color: '#ffffff',
         display: 'standalone',

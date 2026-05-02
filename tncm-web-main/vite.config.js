@@ -10,7 +10,7 @@ export default defineConfig({
       registerType: 'autoUpdate',
       includeAssets: ['favicon.ico', 'apple-touch-icon.png', 'mask-icon.svg', 'assets/icons/*.png'],
       manifest: {
-        name: 'NCM',
+        name: 'nuttychocomorsels',
         short_name: 'NCM',
         description: 'Premium Bakery and Confectionery in Manchester',
         theme_color: '#f59e0b',

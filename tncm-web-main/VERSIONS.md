@@ -4,9 +4,9 @@ This project tracks the customer-facing website development. Use Git Tags to acc
 
 ## [v0.0.12] - 2026-03-20
 ### Changed
-- Rebranded "The Nutty Choco Morsels" (TNCM) to **"Nutty Choco Morsels" (NCM)**.
+- Rebranded "nuttychocomorsels" to **"nuttychocomorsels" (NCM)**.
 - Updated all website names, emails, social links, and SEO metadata.
-- Updated acronym TNCM to NCM across UI elements and configuration files (vite.config.js, PWA manifest).
+- Updated acronym NCM to NCM across UI elements and configuration files (vite.config.js, PWA manifest).
 
 ## [v0.0.11] - 2026-03-03
 ### Fixed
@@ -43,4 +43,4 @@ This project tracks the customer-facing website development. Use Git Tags to acc
 
 ## [v0.0.4] - 2026-03-03
 ### Added
-- Initial project push to GitHub (`tncm-web`).
+- Initial project push to GitHub (`ncm-web`).

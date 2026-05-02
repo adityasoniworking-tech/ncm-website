@@ -1,10 +1,10 @@
-# NCM Admin Portal - Version History
+# nuttychocomorsels admin portal - Version History
 
 This file tracks all official releases and branding updates. You can jump to any version using Git Tags.
 
 ## [v0.1.7] - 2026-03-20
 ### Changed
-- Rebranded "The Nutty Choco Maker" to **"Nutty Choco Morsels"**.
+- Rebranded "Nutty Choco Morsels" to **"nuttychocomorsels"**.
 - Updated acronym TNCM-Admin to **NCM-Admin** across Dashboard, Sidebar, and Login pages.
 - Updated PWA configuration and SEO titles to reflect the new NCM branding.
 

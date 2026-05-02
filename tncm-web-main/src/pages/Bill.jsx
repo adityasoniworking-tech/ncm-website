@@ -119,7 +119,7 @@ const Bill = () => {
 
     return (
         <div className="invoice-page-wrapper" style={styles.pageWrapper}>
-            <SEO title={`Invoice #${id}`} description="Nutty Choco Morsels Order Invoice" />
+            <SEO title={`Invoice #${id}`} description="nuttychocomorsels Order Invoice" />
 
             <motion.div 
                 ref={billRef} 
@@ -131,11 +131,11 @@ const Bill = () => {
                 {/* Invoice Header */}
                 <div className="invoice-header" style={styles.header}>
                     <div style={styles.headerLeft}>
-                        <h1 className="brand-name" style={styles.brandName}>NUTTY CHOCO MORSELS</h1>
+                        <h1 className="brand-name" style={styles.brandName}>nuttychocomorsels</h1>
                         <p style={styles.tagline}>Premium Artisanal Bakery</p>
                         <div style={styles.companyDetails}>
                             <p>Sargasan, Gandhinagar, Gujarat</p>
-                            <p>+91 99787 44573 | nuttychocomorsels@gmail.com</p>
+                            <p>+91 99787 44573 | thenuttychocomorsels@gmail.com</p>
                         </div>
                     </div>
                     <div style={styles.headerRight}>
@@ -195,7 +195,7 @@ const Bill = () => {
                 <div className="summary-grid" style={styles.summarySection}>
                     <div className="notes-box" style={styles.notes}>
                         <h3 style={styles.sectionHeading}>NOTES</h3>
-                        <p style={styles.noteText}>Thank you for choosing Nutty Choco Morsels! We hope you enjoy our freshly baked artisanal delights. Please keep this invoice for your records.</p>
+                        <p style={styles.noteText}>Thank you for choosing nuttychocomorsels! We hope you enjoy our freshly baked artisanal delights. Please keep this invoice for your records.</p>
                     </div>
                     <div className="totals-box" style={styles.totals}>
                         <div style={styles.totalRow}>

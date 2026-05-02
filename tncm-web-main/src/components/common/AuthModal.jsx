@@ -60,7 +60,7 @@ const AuthModal = ({ isOpen, onClose }) => {
                         </div>
 
                         <div style={styles.content}>
-                            <h2 style={styles.title}>Welcome to NCM</h2>
+                            <h2 style={styles.title}>Welcome to nuttychocomorsels</h2>
                             <p style={styles.subtitle}>Log in to unlock exclusive treats & manage your orders.</p>
 
                             {error && (

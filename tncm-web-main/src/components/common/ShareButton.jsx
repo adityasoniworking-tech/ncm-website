@@ -7,7 +7,7 @@ const ShareButton = () => {
     const handleShare = async () => {
         const shareData = {
             title: 'NCM Bakery',
-            text: 'Check out these delicious treats from Nutty Choco Morsels!',
+            text: 'Check out these delicious treats from nuttychocomorsels!',
             url: window.location.origin,
         };
 

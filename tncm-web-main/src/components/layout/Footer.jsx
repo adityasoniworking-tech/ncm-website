@@ -41,13 +41,13 @@ const Footer = () => {
                     <div className="footer-col">
                         <h3>Contact Info</h3>
                         <p><i className="fa-solid fa-phone"></i> +91 9978744573</p>
-                        <p><i className="fa-solid fa-envelope"></i> nuttychocomorsels@gmail.com</p>
+                        <p><i className="fa-solid fa-envelope"></i> thenuttychocomorsels@gmail.com</p>
                         <p><i className="fa-solid fa-location-dot"></i> Swarnim Park, Gandhinagar, 382016</p>
                     </div>
                 </div>
             </div>
             <div className="copyright">
-                &copy; {currentYear} Nutty Choco Morsels.<br className="mobile-copyright-break" /> All Rights Reserved.
+                &copy; {currentYear} nuttychocomorsels.<br className="mobile-copyright-break" /> All Rights Reserved.
             </div>
         </footer>
     );

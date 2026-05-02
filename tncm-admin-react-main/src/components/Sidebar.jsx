@@ -19,7 +19,7 @@ const Sidebar = ({ activeSection, setActiveSection, pendingCount = 0, onLogout }
                     />
                 </div>
                 <div>
-                    <span className="text-xl font-black text-white tracking-tight block">NCM-ADMIN</span>
+                    <span className="text-xl font-black text-white tracking-tight block">nuttychocomorsels admin</span>
                     <span className="text-[10px] font-bold text-amber-500 uppercase tracking-widest bg-amber-500/10 px-1.5 py-0.5 rounded">Store Control</span>
                 </div>
             </div>

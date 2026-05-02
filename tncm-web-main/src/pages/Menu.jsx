@@ -122,7 +122,7 @@ const Menu = () => {
     return (
         <div className="menu-page">
             <SEO
-                title="Premium Gourmet Menu | Nutty Choco Morsels"
+                title="Premium Gourmet Menu | nuttychocomorsels"
                 description="Experience luxury in every bite. Browse our collection of signature brownies, viral Dubai chocolates, artisanal cheesecakes, and fresh-baked cookies."
                 keywords="premium bakery menu, artisan brownies, Dubai style chocolate Gandhinagar"
             />

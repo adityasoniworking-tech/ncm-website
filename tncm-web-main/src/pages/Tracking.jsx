@@ -119,7 +119,7 @@ const Tracking = () => {
         <div className="tracking-wrapper">
             <SEO
                 title="Track Your Order"
-                description="Track your live order status from The Nutty Choco Morsels. Real-time updates on your delicious treats."
+                description="Track your live order status from nuttychocomorsels. Real-time updates on your delicious treats."
                 keywords="track order, bakery delivery status, live tracking Gandhinagar"
             />
             <motion.div

@@ -30,7 +30,7 @@ const userIcon = L.divIcon({
 export const SHOP_LOCATION = [
     parseFloat(import.meta.env.VITE_MAP_SHOP_LAT || '23.1917174'),
     parseFloat(import.meta.env.VITE_MAP_SHOP_LNG || '72.6213802')
-]; // Nutty Choco Morsels base
+]; // nuttychocomorsels base
 export const DELIVERY_CONFIG = {
     firstKmFree: true,
     chargePer500m: 10,
@@ -127,7 +127,7 @@ const DeliveryMap = ({ onConfirm, onClose, initialLocation }) => {
         if (initialLocation) {
             processLocationChange(initialLocation[0], initialLocation[1]);
         } else {
-            setAddressText('📍 The Nutty Choco Morsels (Home Shop)');
+            setAddressText('📍 nuttychocomorsels (Home Shop)');
         }
         // eslint-disable-next-line react-hooks/exhaustive-deps
     }, []);
@@ -304,7 +304,7 @@ const DeliveryMap = ({ onConfirm, onClose, initialLocation }) => {
 
                         {/* Static Shop marker */}
                         <Marker position={SHOP_LOCATION} icon={shopIcon}>
-                            <Popup>The Nutty Choco Morsels<br />(Home Shop)</Popup>
+                            <Popup>nuttychocomorsels<br />(Home Shop)</Popup>
                         </Marker>
 
                         {/* Draggable user marker */}

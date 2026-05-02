@@ -1,6 +1,6 @@
-# NCM Admin Portal
+# nuttychocomorsels admin portal
 
-Professional real-time management dashboard for **Nutty Choco Morsels** bakery. Built for speed, reliability, and ease of use.
+Professional real-time management dashboard for **nuttychocomorsels** bakery. Built for speed, reliability, and ease of use.
 
 ## 🚀 Key Features
 
@@ -51,4 +51,4 @@ npm run dev
 The dashboard is private and requires authentication. It is configured with `robots.txt` to prevent search engine indexing.
 
 ---
-© 2026 Nutty Choco Morsels 
+© 2026 nuttychocomorsels 

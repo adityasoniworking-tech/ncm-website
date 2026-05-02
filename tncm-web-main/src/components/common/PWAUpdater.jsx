@@ -18,7 +18,7 @@ function PWAUpdater() {
             console.log('Main Website: New version detected! Refreshing in background...');
 
             // Set flag in localStorage so we can show notification AFTER refresh
-            localStorage.setItem('tncm_pwa_updated', 'true');
+            localStorage.setItem('ncm_pwa_updated', 'true');
 
             // Immediate upgrade and refresh (production only to avoid dev loops)
             if (!import.meta.env.DEV) {
@@ -29,13 +29,13 @@ function PWAUpdater() {
 
     // Effect for showing the notification AFTER the refresh
     useEffect(() => {
-        const justUpdated = localStorage.getItem('tncm_pwa_updated');
+        const justUpdated = localStorage.getItem('ncm_pwa_updated');
 
         if (justUpdated === 'true') {
             setIsUpdatedNotificationVisible(true);
 
             // Clean up localStorage flag immediately
-            localStorage.removeItem('tncm_pwa_updated');
+            localStorage.removeItem('ncm_pwa_updated');
 
             // Hide notification after 5 seconds
             const timer = setTimeout(() => {
@@ -61,7 +61,7 @@ function PWAUpdater() {
                         </div>
                         <div style={styles.textContainer}>
                             <h4 style={styles.title}>Website Updated!</h4>
-                            <p style={styles.desc}>You are now using the latest version of NCM.</p>
+                            <p style={styles.desc}>You are now using the latest version of nuttychocomorsels.</p>
                         </div>
                         <button
                             onClick={() => setIsUpdatedNotificationVisible(false)}

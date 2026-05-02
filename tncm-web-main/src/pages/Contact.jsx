@@ -16,9 +16,9 @@ const Contact = () => {
     return (
         <div className="contact-page">
             <SEO
-                title="Contact Us | Nutty Choco Morsels"
-                description="Get in touch with Nutty Choco Morsels in Gandhinagar. Contact us for bulk orders, customized gift boxes, and artisanal brownies."
-                keywords="contact bakery Gandhinagar, brownie order Gandhinagar, Nutty Choco Morsels contact"
+                title="Contact Us | nuttychocomorsels"
+                description="Get in touch with nuttychocomorsels in Gandhinagar. Contact us for bulk orders, customized gift boxes, and artisanal brownies."
+                keywords="contact bakery Gandhinagar, brownie order Gandhinagar, nuttychocomorsels contact"
             />
 
             <div className="contact-hero">
@@ -78,7 +78,7 @@ const Contact = () => {
                         <div className="info-content">
                             <h3>Email Inquiries</h3>
                             <p>For corporate orders and collaborations</p>
-                            <a href="mailto:nuttychocomorsels@gmail.com">nuttychocomorsels@gmail.com</a>
+                            <a href="mailto:thenuttychocomorsels@gmail.com">thenuttychocomorsels@gmail.com</a>
                         </div>
                     </motion.div>
 
@@ -89,7 +89,7 @@ const Contact = () => {
                         <div className="info-content">
                             <h3>Visit Our Store</h3>
                             <p>
-                                Nutty Choco Morsels, SWAGAT AFFORD, <br/>
+                                nuttychocomorsels, SWAGAT AFFORD, <br/>
                                 Swagat Queensland Rd, Sargasan, <br/>
                                 Gandhinagar, Gujarat 382421
                             </p>

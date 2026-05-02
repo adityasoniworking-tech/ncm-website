@@ -9,7 +9,7 @@ const Home = () => {
             {/* SEO */}
             <SEO
                 title="Home"
-                description="The Nutty Choco Morsels - Premium Bakery Delights in Gandhinagar. Freshly baked eggless brownies, cheesecakes, and artisanal chocolates delivered to your doorstep."
+                description="nuttychocomorsels - Premium Bakery Delights in Gandhinagar. Freshly baked eggless brownies, cheesecakes, and artisanal chocolates delivered to your doorstep."
                 keywords="bakery, Gandhinagar, eggless brownies, cheesecakes, luxury chocolates, home delivery"
             />
 
@@ -17,18 +17,18 @@ const Home = () => {
             <div className="hero-section">
                 <img
                     src="https://plus.unsplash.com/premium_photo-1681826507324-0b3c43928753?q=80&w=1169&auto=format&fit=crop"
-                    alt="Premium bakery products - fresh cookies, brownies, cheesecakes from The Nutty Choco Morsels"
+                    alt="Premium bakery products - fresh cookies, brownies, cheesecakes from nuttychocomorsels"
                     className="hero-image"
                 />
                 <div className="hero-content">
-                    <h1 className="main-title">Nutty Choco Morsels - Premium Bakery Delights</h1>
+                    <h1 className="main-title">nuttychocomorsels - Premium Bakery Delights</h1>
                     <p className="sub-text">Experience the taste of luxury in Gandhinagar - 100% Eggless Bakery</p>
                 </div>
             </div>
 
-            {/* FEATURES SECTION (Why The Nutty Choco Morsels?) */}
+            {/* FEATURES SECTION (Why nuttychocomorsels?) */}
             <section className="features-section" style={{ padding: '15px 5% 40px', background: '#fff' }}>
-                <h2 className="responsive-title">Why Nutty Choco Morsels?</h2>
+                <h2 className="responsive-title">Why nuttychocomorsels?</h2>
                 <div className="features-grid">
                     <div className="feature-box" style={{ border: '2px solid #5D2E17', boxShadow: '0 4px 10px rgba(139, 69, 19, 0.15)', borderRadius: '10px', background: 'white' }}>
                         <i className="fa-solid fa-leaf"></i>

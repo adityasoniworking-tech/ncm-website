@@ -10,8 +10,8 @@ const WhatsAppSelect = () => {
     return (
         <div className="contact-page" style={{ minHeight: '80vh', display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
             <SEO
-                title="Select WhatsApp Contact | Nutty Choco Morsels"
-                description="Choose a founder to contact on WhatsApp for orders or support from The Nutty Choco Morsels."
+                title="Select WhatsApp Contact | nuttychocomorsels"
+                description="Choose a founder to contact on WhatsApp for orders or support from nuttychocomorsels."
                 keywords="whatsapp contact, bakery support, order inquiry Gandhinagar"
             />
             

@@ -12,7 +12,7 @@ const About = () => {
         <div className="page-container" style={{ overflow: 'hidden' }}>
             <SEO
                 title="Our Story & Mission"
-                description="Learn about Nutty Choco Morsels - our mission to bring luxury bakery delights to Gandhinagar. Meet our founders Shrikant and Mihir."
+                description="Learn about nuttychocomorsels - our mission to bring luxury bakery delights to Gandhinagar. Meet our founders Shrikant and Mihir."
                 keywords="about us, bakery mission, Gandhinagar bakery founders, artisanal bakery story"
             />
 
@@ -28,7 +28,7 @@ const About = () => {
             <section className="about-section about-text">
                 <h2>Our Mission</h2>
                 <p style={{ textAlign: 'center', maxWidth: '800px', margin: '0 auto 40px' }}>
-                    Founded with a passion for excellence, <strong>Nutty Choco Morsels</strong> was born from a simple dream: to make premium, luxury bakery delights accessible to all. We believe every bite should be a celebration—a harmonious blend of the finest ingredients, meticulous craftsmanship, and pure passion.
+                    Founded with a passion for excellence, <strong>nuttychocomorsels</strong> was born from a simple dream: to make premium, luxury bakery delights accessible to all. We believe every bite should be a celebration—a harmonious blend of the finest ingredients, meticulous craftsmanship, and pure passion.
                 </p>
                 <p style={{ textAlign: 'center', maxWidth: '800px', margin: '0 auto' }}>
                     We are on a journey to redefine indulgence, offering everything from our signature melt-in-the-mouth brownies to the latest viral sensations like Dubai-style chocolates. Our commitment is to quality, innovation, and spreading happiness through sweetness.
